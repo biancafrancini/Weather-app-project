@@ -1,0 +1,128 @@
+.searchCityButton {
+  display: block;
+  padding: 10px 20px;
+  margin-top: 30px;
+  margin-left: 40px;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  border: 3px solid rgb(122, 174, 235);
+}
+
+.currentPosition {
+  display: block;
+  padding: 10px 20px;
+  margin-top: -10px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  border: 3px solid rgb(122, 174, 235);
+}
+
+.placeholderEnterCity {
+  display: block;
+  padding: 10px 90px;
+  margin-top: 30px;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  border: 3px solid rgb(122, 174, 235);
+  border-radius: 15px 7px 7px 15px;
+  background-color: #daedfd;
+}
+.citiesContainer {
+  width: 250%;
+  margin-top: 40px;
+}
+
+#city-Selected {
+  display: block;
+  padding: 20px 20px 20px 20px;
+  margin-top: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border: 2px solid orange;
+}
+
+h2 {
+  display: block;
+  padding: 10px 30px 10px 30px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.rowToday {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#celsDegrees {
+  color: rgb(36, 34, 33);
+  display: block;
+  padding: 0px;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.todayContainer {
+  display: block;
+  border: 4px solid orange;
+  border-radius: 45%;
+  padding: 30px 20px;
+  margin-right: 10px;
+  font-weight: bolder;
+}
+
+.descriptionWeatherToday {
+  display: block;
+  width: 28%;
+  border: 2px solid rgb(122, 174, 235);
+  padding: 25px 25px;
+  font-size: 12px;
+  background-color: #daedfd;
+  text-align: center;
+}
+
+.humidityPrecipitations {
+  display: block;
+  margin-top: 5px;
+}
+
+.todayWeather {
+  display: block;
+  padding: 20px 20px;
+  margin-left: 30px;
+  font-size: 12px;
+}
+
+.nextDaysContainer {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.daysOfTheWeek {
+  display: block;
+  border: 2px solid orange;
+  border-radius: 45%;
+  padding: 20px;
+  margin-right: 10px;
+  font-size: 12px;
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  font-size: 12px;
+}
+
+.rainWind {
+  display: block;
+  padding: 20px;
+  margin-right: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  font-size: 12px;
+  border: 2px solid rgb(122, 174, 235);
+  background-color: #daedfd;
+  text-align: center;
+}
